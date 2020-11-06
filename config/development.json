@@ -1,0 +1,5 @@
+{
+    "port": 3010,
+    "spotifySearchSongsEndPoint": "https://api.spotify.com/v1/search",
+    "spotifyAuthorizationEndPoint": "https://accounts.spotify.com/api/token"
+}
